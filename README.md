@@ -1,6 +1,7 @@
 # commune237_K4Council
 ![fonctionnalites](https://github.com/livingseedslab/commune237_K4Council/assets/159010526/a3b606d0-544b-46a9-890b-8752e0f24d6b)
 
+[Demandez une demo](https://livingseedslab.org/contact/)
 Liste des fonctionnalités :
 
 1- Répertorier la communauté :
